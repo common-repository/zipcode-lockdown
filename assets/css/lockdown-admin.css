@@ -1,0 +1,31 @@
+#cst-zcld-lockdown-attribution-wrapper {
+    text-align: right;
+    min-height: 25px;
+    padding-top: 15px;
+}
+#cst-zcld-lockdown-attribution-div {
+    width: auto;
+    float: right;
+    text-align: right;
+    padding-top: 4px;
+}
+#cst-zcld-lockdown-attribution {
+    font-style: italic;
+    padding-right: 4px;
+    color: #7a7a7a;
+    font-size: 10px;
+}
+#cst-zcld-lockdown-cslogo-wrapper {
+    width: 70px;
+    float: right;
+    min-height: 25px;
+    width: 78px;
+}
+#cst-zcld-lockdown-cslogo {
+    height: 25px;
+    width: auto;
+    opacity: 0.5;
+}
+#cst-zcld-lockdown-cslogo:hover {
+    opacity: 0.7;
+}
